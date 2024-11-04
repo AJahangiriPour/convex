@@ -10,9 +10,16 @@ The edges between vertices represent possible transfer paths for the commodity, 
 
 The objective of the optimization is to determine the quantity of the commodity that should be transferred along each edge to satisfy all supply and demand requirements while minimizing the total transfer cost.
 
-<div align="center">
-  <img src="graph image.png" alt="graph image" width="400"/>
-</div>
+$$
+\text{minimize } \; c^T x
+$$
+
+subject to:
+
+$$
+A x = b, \quad 0 \leq x \leq 6
+$$
+
 
 ## Solution
 
