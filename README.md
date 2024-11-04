@@ -97,7 +97,3 @@ Optimal Transfer Quantities: [6, 4, 6, 0, 0, 1, 4, 1, 5]
 ## License
 
 This repository is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-This code demonstrates an efficient approach to solving network flow problems in a directed graph using convex optimization, specifically tailored for applications involving supply and demand distribution with cost minimization.
