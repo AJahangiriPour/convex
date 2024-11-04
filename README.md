@@ -34,9 +34,11 @@ The optimization problem is formulated with:
 The optimization problem is defined as:
 
 \[
-\text{minimize } c^T x
+\text{minimize } \; c^T x
 \]
+
 subject to:
+
 \[
 A x = b, \quad 0 \leq x \leq 6
 \]
