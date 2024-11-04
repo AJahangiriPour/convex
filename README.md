@@ -15,7 +15,7 @@ $$
 $$
 
 $$
-\text{subject to:} A x = b, \quad 0 \leq x \leq 6
+\text{subject to: } A x = b, \quad 0 \leq x \leq 6
 $$
 
 
