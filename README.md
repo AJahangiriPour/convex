@@ -13,7 +13,6 @@ The objective of the optimization is to determine the quantity of the commodity 
 $$
 \text{minimize } c^T x
 $$
-
 $$
 \text{subject to: } A x = b, \quad 0 \leq x \leq 6
 $$
