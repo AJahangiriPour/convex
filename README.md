@@ -10,7 +10,8 @@ The edges between vertices represent possible transfer paths for the commodity, 
 
 The objective of the optimization is to determine the quantity of the commodity that should be transferred along each edge to satisfy all supply and demand requirements while minimizing the total transfer cost.
 
-<img src="graph image.png" alt="graph image" width="400"/>
+<img src="graph image.png" alt="graph image" width="400" style="display: block; margin: auto;">
+
 
 
 ## Solution
